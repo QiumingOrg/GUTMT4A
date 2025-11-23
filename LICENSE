@@ -1,0 +1,15 @@
+禁止上传到谷歌商店等应用商店或平台，以及加入广告等内容后重新分发。
+
+QiuLibCore、QiuSkiaBridge、QiuUTMT三个模块在不引用 GPL3.0 的模块的时候以MPL2.0进行授权，在引用 GPL3.0 的模块的时候以 GPL3.0 或更新版本进行授权。
+
+这样做是为了以后能够解耦合的将代码运用于其他项目。
+
+其余未放置LICENSE文件的目录下的代码基于GPL3.0或更新版本进行授权。
+
+Prohibit uploading to app stores or platforms such as Google Play, as well as redistributing content after adding advertisements or other similiar actions.
+
+The QiuLibCore, QiuSkiaBridge, and QiuUTMT modules are authorized using MPL2.0 when not referencing GPL3.0 modules, and GPL3.0 or later versions when referencing GPL3.0 modules.
+
+This is done in order to decouple and apply the code to other projects in the future.
+
+The code in the directory where the LICENSE file is not placed is authorized based on GPL3.0 or later versions.
